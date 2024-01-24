@@ -23,6 +23,7 @@ happy# Contributors
 - [Alish-0x](https://github.com/Alish-0x)
 -[nathansims88](https://github.com/nathansims88)
 - secret
+- Jake G
 - [Carlea Jean] (https://github.com/CarleaJean)
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
 -[ram,sam ]
